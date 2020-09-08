@@ -1,7 +1,20 @@
-# Analyzing NBA Playstyles
-Using unsupervised learning to cluster NBA players into unique categories that explain their playstyles more accurately than their listed positions.
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/github_username/repo_name">
+    <img src="images/nba_logo.png" alt="Logo" width="250" height="250">
+  </a>
 
-#### Career Karma: https://careerkarma.com/discussions/projects/analyzing-nba-playstyles-763
+  <h1 align="center">Analyzing NBA Playstyles</h1>
+
+  <p align="center">
+    Using unsupervised learning to cluster NBA players into unique categories that explain their playstyles more accurately than their listed positions.
+    <br />
+    <br />
+    <a href="https://careerkarma.com/discussions/projects/analyzing-nba-playstyles-763">View on Career Karma</a>
+    <br />
+  </p>
+</p>
 
 ## Note
 This was my second machine learning project, and first time implementing unsupervised learning. 
