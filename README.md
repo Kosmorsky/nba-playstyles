@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/nba_logo.png" alt="Logo" width="250" height="250">
+    <img src="images/nba_logo_square.png" alt="Logo" width="250" height="250">
   </a>
 
   <h1 align="center">Analyzing NBA Playstyles</h1>
